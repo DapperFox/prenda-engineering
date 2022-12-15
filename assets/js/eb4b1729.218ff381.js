@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprenda_engineering=self.webpackChunkprenda_engineering||[]).push([[6415],{9031:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/prenda-engineering/blog/tags/facebook","allTagsPath":"/prenda-engineering/blog/tags","count":1}')}}]);
