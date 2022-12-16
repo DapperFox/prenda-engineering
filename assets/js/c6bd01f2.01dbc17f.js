@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprenda_engineering=self.webpackChunkprenda_engineering||[]).push([[381],{4062:e=>{e.exports=JSON.parse('{"permalink":"/prenda-engineering/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

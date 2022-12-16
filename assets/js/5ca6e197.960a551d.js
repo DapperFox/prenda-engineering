@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprenda_engineering=self.webpackChunkprenda_engineering||[]).push([[990],{1555:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/prenda-engineering/blog/tags/hola","allTagsPath":"/prenda-engineering/blog/tags","count":1}')}}]);

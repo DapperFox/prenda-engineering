@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprenda_engineering=self.webpackChunkprenda_engineering||[]).push([[214],{7971:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/prenda-engineering/blog/tags/docusaurus","allTagsPath":"/prenda-engineering/blog/tags","count":4}')}}]);
